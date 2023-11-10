@@ -9,7 +9,7 @@
     <visual>
       <origin xyz="-0.25 0.0 0.1" rpy="0 0 ${pi/2.0}"/>
       <geometry>
-        <mesh filename="package://pix_planck_description/mesh/hooke.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://pix_planck_description/mesh/planck.dae" scale="0.001 0.001 0.001"/>
       </geometry>
     </visual>
   </link>
